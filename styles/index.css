@@ -1,0 +1,9 @@
+body {
+    background-color: tan;
+}
+
+#Recipes>li>a {
+    font-size: 18px;
+    text-decoration: none;
+    opacity: 0.8;
+}

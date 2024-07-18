@@ -1,0 +1,27 @@
+body {
+    background-color: tan;
+}
+
+#Description {
+    font-size: 20px;
+    width: 1000px;
+    font-family: sans-serif;
+}
+
+ul,ol {
+    width: 1200px;
+}
+
+ul>li,
+ol>li {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+ol>li {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 20px;
+    border-bottom: 1px solid lightslategrey;
+}
